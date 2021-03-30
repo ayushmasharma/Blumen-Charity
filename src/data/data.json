@@ -1,96 +1,45 @@
 {
     "Header": {
 
-        "title": "Donate to help!",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-
+        "title": "MAKE A CHANGE",
+        "text": "Food is being wasted at an alarming rate. And we - consumers - are the largest source of it. More than grocery stores and restaurants combined. But there's good news: we can do something about it. Everything we need is right here (and in our fridges)."
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Our aim is to redistribute surplus food and water to the individuals who are needing it. If any event like a wedding or party has excess of food and water it will be collected from that location and distributed among the people who need it in the nearest area through our project. Thus this would prevent wastage of food and water and would also benefit the weaker section of the society who are unable to afford these meals..",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "One-stop Solution",
+            "Guaranteed Delivery",
+            "Easy Availability",
+            "Government Approved"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Saving Food",
+            "Helping the Needy",
+            "NGOs approved",
+            "Clean Drinking Water"
         ]
     },
     "Services": [{
             "icon": "fa fa-credit-card",
             "name": "Donate",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "India wastes nearly 67 million and It amounts to Rs93,000 cr worth of food, which means it can feed the most populous state of Bihar for a complete year."
         },
         {
             "icon": "fa fa-lightbulb-o",
             "name": "Volunteer",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "By volunteering with us, you are helping to pack and distribute meals to thousands of beneficiary and help to end hunger. Duties can be from picking up food items, packing and redistributing."
         },
         {
             "icon": "fa fa-wheelchair",
             "name": "Request Help",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "All of us need help sometimes. Now, more than ever, Blumne Charity is here to help you get access to food and clean drinking water."
         }
     ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
+
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "XXXXXXXX ",
+        "phone": "XXXXXXXX",
+        "email": "blumencharity@company.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
@@ -98,22 +47,12 @@
     "Features": [{
             "icon": "fa fa-cutlery",
             "title": "Preventing Hunger",
-            "text": "Many children are suffering from hunger worldwide. We make everything possible to solve this problem."
+            "text": "Many people are suffering from hunger worldwide. We make everything possible to solve this problem."
         },
         {
             "icon": "fa fa-tint",
-            "title": "Provide Clean Water",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-money",
-            "title": "Financial Assistance",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-group",
-            "title": "Adoption Care",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Provide Clean Drinking Water",
+            "text": "Contaminated water and poor sanitation are linked to transmission of diseases. We make everything possible to solve this problem."
         }
     ]
 }
