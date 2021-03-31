@@ -20,16 +20,19 @@
         ]
     },
     "Services": [{
+            "link": "https://forms.gle/bJQgECDYohMx4twA9",
             "icon": "fa fa-credit-card",
             "name": "Donate",
             "text": "India wastes nearly 67 million and It amounts to Rs93,000 cr worth of food, which means it can feed the most populous state of Bihar for a complete year."
         },
         {
+            "link": "https://forms.gle/ZQL35B5tRPpFjQAE7",
             "icon": "fa fa-lightbulb-o",
             "name": "Volunteer",
             "text": "By volunteering with us, you are helping to pack and distribute meals to thousands of beneficiary and help to end hunger. Duties can be from picking up food items, packing and redistributing."
         },
         {
+            "link": "https://forms.gle/gEVBqaBkNx6HqnSk9",
             "icon": "fa fa-wheelchair",
             "name": "Request Help",
             "text": "All of us need help sometimes. Now, more than ever, Blumne Charity is here to help you get access to food and clean drinking water."
